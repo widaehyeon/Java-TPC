@@ -49,5 +49,4 @@ public class TPC05 {
 			System.out.println();
 		}
 	}
-
 }
